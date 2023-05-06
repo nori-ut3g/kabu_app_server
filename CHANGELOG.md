@@ -1,3 +1,10 @@
+## 1.0.0 (2023-05-06)
+
+
+### Features
+
+* add initial project ([029f806](https://github.com/nori-ut3g/kabu_app_server/commit/029f806eea15ba968be9ccdfeefc40c6f3a04a2a))
+
 ## [1.0.4](https://github.com/nori-ut3g/kabu_api_server/compare/v1.0.3...v1.0.4) (2023-05-05)
 
 
